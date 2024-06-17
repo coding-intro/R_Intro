@@ -5,7 +5,7 @@ title: "Introduction to Data Science with R and Tidyverse"
 author: "Lukas Jürgensmeier, based on materials from Data Science in a Box by Mine Çetinkaya-Rundel"
 description: "Data Science in a Box contains the materials required to teach (or learn from) the course described above, all of which are freely-available and open-source."
 date: "`r Sys.Date()`"
-github-repo: https://github.com/coding-intro/intro-tidyverse-2023-06
+github-repo: https://github.com/coding-intro/R_Intro
 cover-image: dsbox.png
 url: 'https\://datasciencebox.org/'
 documentclass: book
@@ -18,7 +18,7 @@ Welcome to the course website for
 
 **Introduction to Data Science with R and Tidyverse**
 
-offered for GRADE Brain and other GRADE Centers at Goethe University in July 2023.
+, a course offered for students and anyone interested in learning R.
 This website serves as the central repository for all course materials.
 Here, you will find all slides, lecture materials, and links to your online development environment.
 
@@ -82,18 +82,27 @@ We will send out detailed instructions and an invitation link in advance.
 
 ## Course Organization
 
-We will meet on July 12th 2023 from 09:00 -- 17:00 in Seminarhaus, room 5.106 on Campus Westend ([see map](https://www.wiwi.uni-frankfurt.de/fileadmin/user_upload/dateien_pruefungsamt/Pruefungsorganisation/Lageplan_Campus_Westend.pdf)).
-Here is a rough timetable, depending on our progress:
+<!-- We will meet on July 12th 2023 from 09:00 -- 17:00 in Seminarhaus, room 5.106 on Campus Westend ([see map](https://www.wiwi.uni-frankfurt.de/fileadmin/user_upload/dateien_pruefungsamt/Pruefungsorganisation/Lageplan_Campus_Westend.pdf)). -->
 
-| Part            | Time           |
-|-----------------|----------------|
-| Workshop Part 1 | 09:00 -- 10:30 |
-| *Coffee Break*  | 10:30 -- 11:00 |
-| Workshop Part 2 | 11:00 -- 12:30 |
-| *Lunch Break*   | 12:30 -- 13:30 |
-| Workshop Part 3 | 13:30 -- 15:00 |
-| *Coffee Break*  | 15:00 -- 15:30 |
-| Workshop Part 4 | 15:30 -- 17:00 |
+<!-- Here is a rough timetable, depending on our progress: -->
+
+<!-- | Part            | Time           | -->
+
+<!-- |-----------------|----------------| -->
+
+<!-- | Workshop Part 1 | 09:00 -- 10:30 | -->
+
+<!-- | *Coffee Break*  | 10:30 -- 11:00 | -->
+
+<!-- | Workshop Part 2 | 11:00 -- 12:30 | -->
+
+<!-- | *Lunch Break*   | 12:30 -- 13:30 | -->
+
+<!-- | Workshop Part 3 | 13:30 -- 15:00 | -->
+
+<!-- | *Coffee Break*  | 15:00 -- 15:30 | -->
+
+<!-- | Workshop Part 4 | 15:30 -- 17:00 | -->
 
 We want you to *make your hands dirty* --- that means we want you to code!
 Just following along fancy slides won't magically transfer the skill of coding to you.
@@ -102,15 +111,15 @@ But you actively engaging with the course content in your development environmen
 That's why we need you to prepare accordingly:
 
 Please create a [Posit Cloud](https://posit.cloud/) (formerly RStudio Cloud) account before the first class.
-We have sent you a link to access all exercises on Posit Cloud.
+We will send you a link to access all exercises on Posit Cloud.
 Since we want you to start coding very early on in the first class, please ensure that you can access those course materials on Posit Cloud before our first meeting.
 
-If you have any questions, please reach out to one of us through the e-mail addresses on the bottom of this page.
+If you have any questions, please reach out to one of the teachers who will get in touch with you before the course starts.
 
 ## Schedule
 
 This workshop alternates between lecture-style presentations and application exercises.
-In those hands-on exercises, you will actively try out the discussed tools in small groups and with suppport from the teachers.
+In those hands-on exercises, you will actively try out the discussed tools in small groups and with support from the teachers.
 We aim to adhere to the following schedule.
 Depending on our progress, we may discuss some parts a bit earlier or later during the course.
 
@@ -147,15 +156,15 @@ We suggest two textbook references:
 -   **IMS**: Çetinkaya-Rundel, M., Hardin, J. (2022), "Introduction to Modern Statistics", available at [openintro-ims.netlify.app](https://openintro-ims.netlify.app/)
 :::
 
-## Trainers
+<!-- ## Trainers -->
 
-Feel free to reach out to us by e-mail if you have any questions before, during, or after the course:
+<!-- Feel free to reach out to us by e-mail if you have any questions before, during, or after the course: -->
 
--   **Lukas Jürgensmeier**, M.Sc., PhD Student in Quantitative Marketing, [send me an e-mail](mailto:juergensmeier@wiwi.uni-frankfurt.de)
+<!-- -   **Lukas Jürgensmeier**, M.Sc., PhD Student in Quantitative Marketing, [send me an e-mail](mailto:juergensmeier@wiwi.uni-frankfurt.de) -->
 
--   **Matteo Fina**, M.Sc., PhD Student at GSEFM in Economics, [send me an e-mail](mailto:matteo.fina@its.uni-frankfurt.de)
+<!-- -   **Matteo Fina**, M.Sc., PhD Student at GSEFM in Economics, [send me an e-mail](mailto:matteo.fina@its.uni-frankfurt.de) -->
 
--   **Jan Bischoff**, Business and Economics Student, R/Python Teacher and Course Designer at [TechAcademy e.V.](#0), [send me an e-mail](mailto:jan.bischoff@tech-academy.io)
+<!-- -   **Jan Bischoff**, Business and Economics Student, R/Python Teacher and Course Designer at [TechAcademy e.V.](#0), [send me an e-mail](mailto:jan.bischoff@tech-academy.io) -->
 
 ## License {.unnumbered}
 
