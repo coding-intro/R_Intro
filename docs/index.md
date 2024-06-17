@@ -18,7 +18,7 @@ Welcome to the course website for
 
 **Introduction to Data Science with R and Tidyverse**
 
-, a course offered for students and anyone interested in learning R.
+A course offered for students and anyone interested in learning R.
 This website serves as the central repository for all course materials.
 Here, you will find all slides, lecture materials, and links to your online development environment.
 
