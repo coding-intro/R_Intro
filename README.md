@@ -3,7 +3,7 @@
 # Introduction to Data Science with R and Tidyverse
 
 This repository contains all materials for the course *Introduction to Data Science with R and Tidyverse*, offered for GRADE Brain and other GRADE Centers at Goethe University.
-Additionally, it serves the course website for students, which you can access [here](https://coding-intro.github.io/intro-tidyverse-2023-06/).
+Additionally, it serves the course website for students, which you can access [here](https://coding-intro.github.io/R_Intro/).
 
 # Course Objective
 
@@ -48,19 +48,3 @@ In between the three sessions, you are encouraged to work on provided exercises 
 
 -   No prior coding experience is needed. This course is a beginner-friendly course. You are also more than welcome to participate if you have experience in R but want to learn more about the Tidyverse.
 -   An Posit Cloud (formerly RStudio Cloud) account. Since we do not want to waste precious course time on the technical setup, we will use the Posit Cloud as a simple and readily available development environment. We will send out detailed instructions and an invitation link in advance.
-
-# \# Trainers
-
-# 
-
-# In the last three years, your trainers have developed and taught TechAcademy's Data Science with R program at Goethe University.
-
-# They use data science methods and R daily in their academic and non-academic jobs.
-
-# 
-
-# - [Lukas Jürgensmeier](https://lukas-juergensmeier.com), M.Sc., PhD Student in Quantitative Marketing and Member of the Executive Board at TechAcademy e.V.
-
-# - [Matteo Fina](https://www.marketing.uni-frankfurt.de/professoren/otter/wissenschaftliche-mitarbeiter/matteo-fina.html), M.Sc., PhD Student at GSEFM in Economics
-
-# - Jan Bischoff, Business and Economics Student, R/Python Teacher and Course Designer at TechAcademy e.V.
