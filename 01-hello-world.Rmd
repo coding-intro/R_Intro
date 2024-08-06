@@ -38,7 +38,7 @@ Please open your Posit Cloud for this exercise.
 **Unit 1 - Deck 2: Meet the toolkit --- Programming**
 
 ::: slides
-[Slides](https://coding-intro.github.io/R_Intro/slides/u1-d02-toolkit-r/u1-d02-toolkit-r.html)
+[Slides](https://coding-intro.github.io/R_Intro_2024_02/slides/u1-d02-toolkit-r/u1-d02-toolkit-r.html)
 :::
 
 ::: reading
