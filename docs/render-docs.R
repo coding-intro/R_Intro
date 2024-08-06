@@ -39,5 +39,5 @@ xaringans <- dir_info(recurse = 3, glob = "docs/*.Rmd") %>%
 xaringans
 
 # execute rendering function for all selected slide decks
-walk(xaringans[17:19], render)
+walk(xaringans, render)
 
